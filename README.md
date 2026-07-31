@@ -140,12 +140,27 @@ Smart contract work using Solidity, Hardhat, and upgradeable contract architectu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/thakurdipak)
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=FFFFFF)](https://github.com/DipakThakur13)
-[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge\&logo=google-chrome\&logoColor=38BDF8)](https://boswas.co.in)
+<a href="https://www.linkedin.com/in/thakurdipak" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/DipakThakur13" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://boswas.co.in" target="_blank">
+  <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://orcid.org/0009-0007-1190-9075" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/dipak.thakur.02" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
 </div>
-
 ---
 
 ## ✨ A little about me
