@@ -134,7 +134,7 @@ Smart contract work using Solidity, Hardhat, and upgradeable contract architectu
 * Interested in financial systems, automation, and intelligent agents
 * Focused on making projects deployment-ready and business-friendly
 
----
+
 
 ## 🌍 Connect with me
 
@@ -161,7 +161,7 @@ Smart contract work using Solidity, Hardhat, and upgradeable contract architectu
 </a>
 
 </div>
----
+
 
 ## ✨ A little about me
 
