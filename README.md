@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dipak%20Thakur&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dipak%20Kumar&fontSize=42&fontColor=ffffff&color=0:0f172a,100:2563eb&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Cybersecurity+Student+%7C+Full-Stack+Developer+%7C+AI+Builder;Building+MedNexus%2C+Aegis%2C+CyberLab+%26+Boswas+Group;Focused+on+real+products%2C+automation+%26+scalable+systems" alt="Typing SVG" />
 
