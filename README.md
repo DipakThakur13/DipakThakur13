@@ -110,21 +110,47 @@ Smart contract work using Solidity, Hardhat, and upgradeable contract architectu
 
 ---
 
-## 📊 GitHub Stats
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DipakThakur13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DipakThakur13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakThakur13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DipakThakur13&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DipakThakur13&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DipakThakur13&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DipakThakur13&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/DipakThakur13?label=Followers&style=for-the-badge&color=2563eb"/>
+
+<img src="https://img.shields.io/github/stars/DipakThakur13?affiliations=OWNER&style=for-the-badge&color=f59e0b"/>
+
+</div>
+
+---
 
 ---
 
