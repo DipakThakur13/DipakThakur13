@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hi, I’m Dipak Thakur
+## 👋 Hi, I’m Dipak Kumar
 
 I’m a **B.Tech CSE (Cybersecurity)** student at **Bennett University**, India, building practical software with a focus on **AI agents, cybersecurity, blockchain, and product engineering**.
 
