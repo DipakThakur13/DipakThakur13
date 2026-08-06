@@ -78,27 +78,47 @@ I like turning ideas into real systems that people can actually use — from hea
 
 ## 🔥 Featured Projects
 
+## 🔥 Featured Projects
+
 ### **Aegis**
+AI-powered agent ecosystem for news intelligence, coding assistance, trading strategy support, and intelligent workflow automation.
 
-AI-powered agent ecosystem for news intelligence, coding assistance, trading strategy support, and automation.
-
-### **MedNexus**
-
-Healthcare platform with blockchain-based identity, consent, and record management concepts.
-
-### **CyberLab**
-
-Cybersecurity learning platform for articles, labs, and practical security knowledge.
-
-### **Boswas Group**
-
-Business ecosystem and brand platform for multiple ventures and product ideas.
-
-### **Blockchain Projects**
-
-Smart contract work using Solidity, Hardhat, and upgradeable contract architecture.
+**🔗 Live Demo:** [View Project](https://your-link-here.com)
 
 ---
+
+### **MedNexus**
+Next-generation healthcare platform featuring blockchain-powered identity management, patient consent, electronic health records, and secure medical data sharing.
+
+**🔗 Live Demo:** [View Project](https://mednexus.boswas.co.in)
+
+---
+
+### **CyberLab**
+Interactive cybersecurity learning platform offering articles, practical labs, penetration testing guides, and hands-on security education.
+
+**🔗 Live Demo:** [View Project](https://cyberlab.boswas.co.in)
+
+---
+
+### **Boswas Store**
+Enterprise SaaS marketplace and customer portal where organizations can purchase software licenses, manage subscriptions, access invoices, download products, and request custom software development services through a modern business dashboard.
+
+**🔗 Live Demo:** [View Project](https://your-link-here.com)
+
+---
+
+### **Boswas Group**
+Corporate website showcasing the Boswas ecosystem, its companies, products, innovations, and long-term vision across technology, healthcare, AI, and enterprise solutions.
+
+**🔗 Live Demo:** [View Project](https://www.boswas.co.in)
+
+---
+
+### **Blockchain Projects**
+Collection of decentralized applications and smart contracts built using Solidity, Hardhat, OpenZeppelin Upgradeable Contracts (UUPS), and modern Web3 architecture.
+
+**🔗 Live Demo:** [View Project](https://your-link-here.com)
 
 ## 🧠 What I care about
 
