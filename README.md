@@ -19,6 +19,7 @@ I like turning ideas into real systems that people can actually use — from hea
 ## 🚀 What I’m building
 
 * **Aegis** — AI agent system for trading, news intelligence, and automation
+* **COMU** — multi-modal AI coding agent, built on BYOK.
 * **MedNexus** — healthcare / EHR platform with blockchain and consent flow
 * **CyberLab** — cybersecurity learning and article platform
 * **Boswas Group** — multi-company ecosystem and business platform
