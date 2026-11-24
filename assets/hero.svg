@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Dipak Kumar</title>
+<desc id="desc">Cybersecurity Student, Full-Stack Developer and AI Builder. B.Tech CSE (Cybersecurity) at Bennett University, India.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#020617"/>
+<stop offset=".55" stop-color="#0a1330"/>
+<stop offset="1" stop-color="#10296b"/>
+</linearGradient>
+<linearGradient id="name" x1="470" y1="0" x2="1010" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+<stop offset="0" stop-color="#7dd3fc"/>
+<stop offset=".25" stop-color="#f0f9ff"/>
+<stop offset=".5" stop-color="#818cf8"/>
+<stop offset=".75" stop-color="#38bdf8"/>
+<stop offset="1" stop-color="#7dd3fc"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="540 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38bdf8"/>
+<stop offset=".3" stop-color="#1e293b" stop-opacity=".2"/>
+<stop offset=".7" stop-color="#1e293b" stop-opacity=".2"/>
+<stop offset="1" stop-color="#818cf8"/>
+<animateTransform attributeName="gradientTransform" type="rotate" from="0 600 210" to="360 600 210" dur="8s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#38bdf8"/>
+<stop offset="1" stop-color="#818cf8"/>
+</linearGradient>
+<linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1d4ed8" stop-opacity=".55"/>
+<stop offset="1" stop-color="#0f172a" stop-opacity=".2"/>
+</linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+<stop offset=".8" stop-color="#38bdf8" stop-opacity=".08"/>
+<stop offset=".97" stop-color="#7dd3fc" stop-opacity=".18"/>
+<stop offset="1" stop-color="#7dd3fc" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="vig" cx="50%" cy="45%" r="65%">
+<stop offset="0" stop-color="#fff" stop-opacity=".9"/>
+<stop offset="1" stop-color="#fff" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="sweep" cx="0" cy="1" r="1">
+<stop offset="0" stop-color="#38bdf8" stop-opacity=".0"/>
+<stop offset="1" stop-color="#38bdf8" stop-opacity=".35"/>
+</radialGradient>
+<mask id="gridMask"><rect width="1200" height="420" fill="url(#vig)"/></mask>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+<path d="M44 0H0V44" fill="none" stroke="#38bdf8" stroke-opacity=".09"/>
+</pattern>
+<clipPath id="frame"><rect width="1200" height="420" rx="26"/></clipPath>
+<clipPath id="hex"><polygon points="250.0,118.0 329.7,164.0 329.7,256.0 250.0,302.0 170.3,256.0 170.3,164.0"/></clipPath>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="55"/></filter>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur stdDeviation="5" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="softglow" x="-10%" y="-40%" width="120%" height="180%">
+<feGaussianBlur stdDeviation="10" result="b"/>
+<feColorMatrix in="b" type="matrix" values="0 0 0 0 0.22  0 0 0 0 0.74  0 0 0 0 0.97  0 0 0 .55 0" result="c"/>
+<feMerge><feMergeNode in="c"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<style>
+.sans{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Roboto, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace}
+.p{animation:rise linear infinite}
+.g{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace;font-size:14px;fill:#7dd3fc;opacity:.14;animation:bob ease-in-out infinite alternate}
+.orb1{animation:drift1 14s ease-in-out infinite alternate}
+.orb2{animation:drift2 18s ease-in-out infinite alternate}
+.orb3{animation:drift1 22s ease-in-out infinite alternate-reverse}
+.gridmove{animation:grid 8s linear infinite}
+.scan{animation:scan 7s linear infinite}
+.spin{transform-origin:250px 210px;animation:spin 40s linear infinite}
+.spinr{transform-origin:250px 210px;animation:spin 18s linear infinite reverse}
+.orbit{transform-origin:250px 210px;animation:spin 7s linear infinite}
+.sweep{transform-origin:250px 210px;animation:spin 4s linear infinite}
+.pulse{transform-origin:250px 210px;animation:pulse 3.2s ease-out infinite}
+.pulse2{animation-delay:1.6s}
+.breathe{transform-origin:250px 210px;animation:breathe 4s ease-in-out infinite}
+.fu{animation:fadeUp .9s cubic-bezier(.2,.7,.2,1) both}
+.gl1,.gl2{opacity:0}
+.gl1{animation:glitch1 6s steps(1) infinite 2s}
+.gl2{animation:glitch2 6s steps(1) infinite 2s}
+.blink{animation:blink 1.4s ease-in-out infinite}
+.pill{font-family:ui-monospace, SFMono-Regular, 'Cascadia Code', 'JetBrains Mono', Consolas, 'Liberation Mono', Menlo, monospace;font-size:14px;font-weight:700;letter-spacing:1.4px;text-anchor:middle}
+@keyframes rise{0%{transform:translateY(0);opacity:0}15%{opacity:.9}80%{opacity:.5}100%{transform:translateY(-280px);opacity:0}}
+@keyframes bob{from{transform:translateY(6px)}to{transform:translateY(-6px)}}
+@keyframes drift1{from{transform:translate(0,0)}to{transform:translate(60px,-30px)}}
+@keyframes drift2{from{transform:translate(0,0)}to{transform:translate(-80px,40px)}}
+@keyframes grid{to{transform:translate(44px,44px)}}
+@keyframes scan{from{transform:translateY(-140px)}to{transform:translateY(440px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%{transform:scale(.8);opacity:.6}100%{transform:scale(1.6);opacity:0}}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.04)}}
+@keyframes fadeUp{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+@keyframes glitch1{0%{opacity:0}90%{opacity:.85;transform:translate(-5px,2px)}92%{transform:translate(4px,-1px)}94%{transform:translate(-2px,0)}96%{opacity:0}}
+@keyframes glitch2{0%{opacity:0}90%{opacity:.85;transform:translate(5px,-2px)}92%{transform:translate(-4px,1px)}94%{transform:translate(2px,0)}96%{opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1200" height="420" fill="url(#bg)"/>
+<g filter="url(#blur)">
+<circle class="orb1" cx="250" cy="210" r="170" fill="#2563eb" opacity=".38"/>
+<circle class="orb2" cx="1020" cy="70" r="160" fill="#7c3aed" opacity=".28"/>
+<circle class="orb3" cx="820" cy="430" r="190" fill="#0ea5e9" opacity=".22"/>
+</g>
+<g mask="url(#gridMask)">
+<rect class="gridmove" x="-44" y="-44" width="1288" height="508" fill="url(#grid)"/>
+</g>
+<text class="g" x="64" y="92" style="animation-duration:6.0s;animation-delay:-0.0s">0x1F</text><text class="g" x="430" y="392" style="animation-duration:7.5s;animation-delay:-0.9s">{ }</text><text class="g" x="1112" y="150" style="animation-duration:9.0s;animation-delay:-1.8s">&lt;/&gt;</text><text class="g" x="980" y="384" style="animation-duration:10.5s;animation-delay:-2.7s">01</text><text class="g" x="600" y="64" style="animation-duration:6.0s;animation-delay:-3.6s">#!/bin/sh</text><text class="g" x="1050" y="236" style="animation-duration:7.5s;animation-delay:-4.5s">SHA-256</text><text class="g" x="112" y="372" style="animation-duration:9.0s;animation-delay:-5.4s">λ</text><text class="g" x="820" y="392" style="animation-duration:10.5s;animation-delay:-6.3s">fn()</text><text class="g" x="1120" y="330" style="animation-duration:6.0s;animation-delay:-7.2s">0101</text><text class="g" x="790" y="66" style="animation-duration:7.5s;animation-delay:-8.1s">sudo</text><text class="g" x="420" y="46" style="animation-duration:9.0s;animation-delay:-9.0s">0xDEAD</text><text class="g" x="36" y="250" style="animation-duration:10.5s;animation-delay:-9.9s">[ ]</text>
+<circle class="p" cx="320" cy="323" r="1.2" fill="#7dd3fc" style="animation-duration:13.2s;animation-delay:-8.8s"/><circle class="p" cx="764" cy="154" r="1" fill="#a78bfa" style="animation-duration:12.3s;animation-delay:-2.6s"/><circle class="p" cx="55" cy="133" r="2.2" fill="#7dd3fc" style="animation-duration:16.0s;animation-delay:-15.9s"/><circle class="p" cx="119" cy="360" r="1.5" fill="#7dd3fc" style="animation-duration:14.6s;animation-delay:-10.9s"/><circle class="p" cx="941" cy="177" r="1.2" fill="#e0f2fe" style="animation-duration:11.9s;animation-delay:-9.0s"/><circle class="p" cx="798" cy="392" r="1.5" fill="#a78bfa" style="animation-duration:13.2s;animation-delay:-4.6s"/><circle class="p" cx="821" cy="278" r="1.2" fill="#7dd3fc" style="animation-duration:11.5s;animation-delay:-8.4s"/><circle class="p" cx="360" cy="151" r="1.5" fill="#a78bfa" style="animation-duration:10.0s;animation-delay:-4.6s"/><circle class="p" cx="479" cy="134" r="1.8" fill="#7dd3fc" style="animation-duration:12.4s;animation-delay:-7.0s"/><circle class="p" cx="834" cy="135" r="1.8" fill="#e0f2fe" style="animation-duration:13.2s;animation-delay:-12.6s"/><circle class="p" cx="23" cy="234" r="1" fill="#e0f2fe" style="animation-duration:9.8s;animation-delay:-4.9s"/><circle class="p" cx="761" cy="144" r="1.8" fill="#a78bfa" style="animation-duration:13.9s;animation-delay:-3.5s"/><circle class="p" cx="256" cy="380" r="1.5" fill="#7dd3fc" style="animation-duration:12.2s;animation-delay:-8.0s"/><circle class="p" cx="858" cy="162" r="2.2" fill="#38bdf8" style="animation-duration:8.3s;animation-delay:-5.9s"/><circle class="p" cx="437" cy="337" r="1.5" fill="#38bdf8" style="animation-duration:9.5s;animation-delay:-1.8s"/><circle class="p" cx="1065" cy="147" r="1.8" fill="#38bdf8" style="animation-duration:13.1s;animation-delay:-7.3s"/><circle class="p" cx="1146" cy="371" r="1" fill="#a78bfa" style="animation-duration:12.2s;animation-delay:-1.5s"/><circle class="p" cx="161" cy="193" r="1.5" fill="#e0f2fe" style="animation-duration:12.5s;animation-delay:-8.8s"/><circle class="p" cx="626" cy="380" r="1" fill="#e0f2fe" style="animation-duration:8.0s;animation-delay:-2.7s"/><circle class="p" cx="669" cy="271" r="1.8" fill="#38bdf8" style="animation-duration:9.8s;animation-delay:-2.0s"/><circle class="p" cx="456" cy="333" r="1.2" fill="#7dd3fc" style="animation-duration:13.9s;animation-delay:-3.6s"/><circle class="p" cx="320" cy="290" r="1.5" fill="#e0f2fe" style="animation-duration:14.2s;animation-delay:-8.4s"/><circle class="p" cx="256" cy="209" r="1" fill="#38bdf8" style="animation-duration:10.5s;animation-delay:-4.9s"/><circle class="p" cx="899" cy="294" r="1" fill="#e0f2fe" style="animation-duration:13.2s;animation-delay:-4.1s"/><circle class="p" cx="578" cy="279" r="1.5" fill="#7dd3fc" style="animation-duration:8.5s;animation-delay:-4.5s"/><circle class="p" cx="192" cy="108" r="1.5" fill="#a78bfa" style="animation-duration:14.6s;animation-delay:-3.2s"/><circle class="p" cx="720" cy="189" r="1.5" fill="#e0f2fe" style="animation-duration:9.0s;animation-delay:-3.3s"/><circle class="p" cx="699" cy="288" r="1.8" fill="#7dd3fc" style="animation-duration:8.3s;animation-delay:-4.5s"/><circle class="p" cx="1142" cy="107" r="1.2" fill="#7dd3fc" style="animation-duration:15.1s;animation-delay:-8.3s"/><circle class="p" cx="1067" cy="394" r="1.2" fill="#38bdf8" style="animation-duration:8.7s;animation-delay:-8.1s"/>
+<rect class="scan" x="0" y="0" width="1200" height="140" fill="url(#scan)"/>
+</g>
+<!-- animated frame -->
+<rect x="1" y="1" width="1198" height="418" rx="25" fill="none" stroke="url(#edge)" stroke-width="2"/>
+<g stroke="#38bdf8" stroke-width="2" fill="none" opacity=".55">
+<path d="M22 52V22H52"/><path d="M1148 22H1178V52"/>
+<path d="M22 368V398H52"/><path d="M1148 398H1178V368"/>
+</g>
+<!-- HUD labels -->
+<g class="mono" font-size="12" letter-spacing="2">
+<circle class="blink" cx="1018" cy="40" r="4" fill="#22c55e"/>
+<text x="1030" y="44" fill="#86efac">SYSTEM ONLINE</text>
+<text x="1160" y="384" fill="#64748b" text-anchor="end">github.com/DipakThakur13</text>
+<text x="56" y="384" fill="#64748b">boswas.co.in</text>
+</g>
+<!-- emblem -->
+<g>
+<circle class="pulse" cx="250" cy="210" r="100" fill="none" stroke="#38bdf8" stroke-width="1.5"/>
+<circle class="pulse pulse2" cx="250" cy="210" r="100" fill="none" stroke="#818cf8" stroke-width="1.5"/>
+<circle class="spin" cx="250" cy="210" r="146" fill="none" stroke="#38bdf8" stroke-opacity=".45" stroke-width="1.5" stroke-dasharray="2 9"/>
+<circle class="spinr" cx="250" cy="210" r="124" fill="none" stroke="url(#ring)" stroke-width="3" stroke-linecap="round" stroke-dasharray="70 34 12 34"/>
+<g class="orbit">
+<circle cx="374" cy="210" r="5" fill="#e0f2fe" filter="url(#glow)"/>
+</g>
+<g class="breathe">
+<polygon points="250.0,118.0 329.7,164.0 329.7,256.0 250.0,302.0 170.3,256.0 170.3,164.0" fill="#0b1530" fill-opacity=".9" stroke="url(#ring)" stroke-width="2.5" filter="url(#glow)"/>
+<g clip-path="url(#hex)">
+<path class="sweep" d="M250 210L250 110A100 100 0 0 1 320.7 139.3Z" fill="url(#sweep)"/>
+<circle cx="250" cy="210" r="46" fill="none" stroke="#38bdf8" stroke-opacity=".15"/>
+<circle cx="250" cy="210" r="70" fill="none" stroke="#38bdf8" stroke-opacity=".12"/>
+</g>
+<path d="M250 158L292 174V212C292 240 273 257 250 266C227 257 208 240 208 212V174Z"
+fill="url(#shield)" stroke="#7dd3fc" stroke-width="2.5" stroke-linejoin="round"/>
+<text class="sans" x="250" y="223" font-size="34" font-weight="800" fill="#f0f9ff" text-anchor="middle" letter-spacing="1">DK</text>
+</g>
+</g>
+<!-- text -->
+<g class="fu" style="animation-delay:.15s">
+<text class="mono" x="472" y="120" font-size="17" fill="#38bdf8" letter-spacing="2">// hello, world — I'm</text>
+</g>
+<g class="fu" style="animation-delay:.35s">
+<text class="sans gl1" x="470" y="200" font-size="84" font-weight="800" fill="#22d3ee" letter-spacing="-1">Dipak Kumar</text>
+<text class="sans gl2" x="470" y="200" font-size="84" font-weight="800" fill="#f472b6" letter-spacing="-1">Dipak Kumar</text>
+<text class="sans" x="470" y="200" font-size="84" font-weight="800" fill="url(#name)" letter-spacing="-1" filter="url(#softglow)">Dipak Kumar</text>
+</g>
+<g class="fu" style="animation-delay:.7s">
+<text class="sans" x="472" y="248" font-size="23" font-weight="600" fill="#e2e8f0">Cybersecurity Student <tspan fill="#38bdf8">·</tspan> Full-Stack Developer <tspan fill="#38bdf8">·</tspan> AI Builder</text>
+</g>
+<g class="fu" style="animation-delay:.95s">
+<text class="mono" x="472" y="288" font-size="16" fill="#94a3b8">B.Tech CSE (Cybersecurity) <tspan fill="#475569">@</tspan> Bennett University <tspan fill="#475569">·</tspan> India</text>
+</g>
+<g class="fu" style="animation-delay:1.25s">
+<rect x="470" y="316" width="117" height="32" rx="16" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".55"/>
+<text class="pill" x="528" y="337" fill="#38bdf8">AI AGENTS</text>
+</g>
+<g class="fu" style="animation-delay:1.40s">
+<rect x="599.0" y="316" width="153" height="32" rx="16" fill="#fb7185" fill-opacity=".1" stroke="#fb7185" stroke-opacity=".55"/>
+<text class="pill" x="676" y="337" fill="#fb7185">CYBERSECURITY</text>
+</g>
+<g class="fu" style="animation-delay:1.55s">
+<rect x="764.0" y="316" width="126" height="32" rx="16" fill="#2dd4bf" fill-opacity=".1" stroke="#2dd4bf" stroke-opacity=".55"/>
+<text class="pill" x="827" y="337" fill="#2dd4bf">BLOCKCHAIN</text>
+</g>
+<g class="fu" style="animation-delay:1.70s">
+<rect x="902.0" y="316" width="207" height="32" rx="16" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".55"/>
+<text class="pill" x="1006" y="337" fill="#a78bfa">PRODUCT ENGINEERING</text>
+</g>
+</svg>
