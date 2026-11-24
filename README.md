@@ -138,6 +138,13 @@
 <!-- ═══════════════════════════════════  ANALYTICS  ═══════════════════════════════════ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- contribution-stats.svg and the snake are rebuilt daily by .github/workflows/profile-animations.yml and published to the "output" branch -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/DipakThakur13/DipakThakur13/output/contribution-stats.svg" alt="Contribution stats: total contributions, contribution days, current streak, longest streak, and contributions per month for the last 12 months" />
+</div>
+
+<br />
+
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DipakThakur13&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=14&bg_color=0b1220&title_color=38bdf8&icon_color=a78bfa&text_color=cbd5e1&ring_color=38bdf8&border_color=1e293b" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakThakur13&layout=compact&langs_count=8&border_radius=14&bg_color=0b1220&title_color=38bdf8&text_color=cbd5e1&border_color=1e293b" alt="Top languages" />
@@ -146,13 +153,17 @@
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DipakThakur13&background=0B1220&border=1E293B&stroke=1E293B&ring=38BDF8&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&border_radius=14" alt="GitHub streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DipakThakur13&bg_color=0b1220&color=7dd3fc&title_color=38bdf8&line=38bdf8&point=e0f2fe&area=true&area_color=38bdf8&hide_border=true&radius=14" alt="Contribution activity graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DipakThakur13&bg_color=0b1220&color=7dd3fc&title_color=38bdf8&line=38bdf8&point=e0f2fe&area=true&area_color=38bdf8&hide_border=true&radius=14" alt="Contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DipakThakur13/DipakThakur13/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DipakThakur13/DipakThakur13/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/DipakThakur13/DipakThakur13/output/github-snake-dark.svg" alt="Snake eating my GitHub contribution grid" />
+  </picture>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
